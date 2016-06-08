@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Gregous Food]]></title>
+        <description><![CDATA[Gregous Food]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 08 Jun 2016 07:50:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Risotto de champiñones con pesto de rucula - Reto Cooking The Chef: Berasategui]]></title>
+            <description><![CDATA[<article><h1>Risotto de champiñones con pesto de rucula - Reto Cooking The Chef: Berasategui</h1><p>Habeis adivinado, es la hora de participar en el reto de Cooking The Chef. Dos chicas nos proponen cada mes cocinar una receta de un chef conocido y todas salen publicadas el mismo día. No hay premios, sólo diversión, compartir con otros usuarios y el placer de descubrir un nuevo chef.</p><img src="http://foodv2.gregous.com/wp-content/uploads/2016/06/risotto-pest-rucula-berasategui-gregousfood1.jpg"></article>]]></description>
+            <link>http://food.gregous.com/2016/06/05/risotto-de-champis-con-pesto-de-rucula-reto-cooking-the-chef-berasategui/</link>
+            <guid isPermaLink="false">b5a6cb09-2508-43e4-b971-5080ae22c082</guid>
+            <pubDate>Wed, 08 Jun 2016 07:49:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
